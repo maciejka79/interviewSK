@@ -1,2 +1,0 @@
-# interviewSK
-interview test
