@@ -1,0 +1,5 @@
+export const ADD_PERSON = 'ADD_PERSONSON';
+export const UPDATE_PERSON = 'EDIT_PERSON';
+export const REMOVE_PERSON = 'REMOVE_PERSON';
+
+export const SET_FILTER_DATE = 'SET_FILTER_DATE';
